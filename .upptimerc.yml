@@ -7,6 +7,12 @@ sites:
     url: https://sadacc.org
   - name: SIA
     url: https://www.sickleinafrica.org
+  - name: APN
+    url: https://www.aphgn.org/
+  - name: AfSHG
+    url: https://afshgmeetings.org/
+  - name: SCD Warriors
+    url: http://scdwarriorsafrica.org/
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
