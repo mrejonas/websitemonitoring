@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2859,
-    "timeDay": 2859,
-    "timeWeek": 2859,
-    "timeMonth": 2859,
-    "timeYear": 2859,
+    "time": 3471,
+    "timeDay": 5196,
+    "timeWeek": 3471,
+    "timeMonth": 3471,
+    "timeYear": 3471,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4462,
-    "timeDay": 4462,
-    "timeWeek": 4462,
-    "timeMonth": 4462,
-    "timeYear": 4462,
+    "time": 3736,
+    "timeDay": 3657,
+    "timeWeek": 3736,
+    "timeMonth": 3736,
+    "timeYear": 3736,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4459,
-    "timeDay": 4459,
-    "timeWeek": 4459,
-    "timeMonth": 4459,
-    "timeYear": 4459,
+    "time": 5449,
+    "timeDay": 5449,
+    "timeWeek": 5449,
+    "timeMonth": 5449,
+    "timeYear": 5449,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1318,
-    "timeDay": 1318,
-    "timeWeek": 1318,
-    "timeMonth": 1318,
-    "timeYear": 1318,
+    "time": 1247,
+    "timeDay": 1247,
+    "timeWeek": 1247,
+    "timeMonth": 1247,
+    "timeYear": 1247,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scdwarriorsafrica.org.ico",
     "slug": "scd-warriors",
     "status": "down",
-    "uptime": "34.92%",
-    "uptimeDay": "34.92%",
-    "uptimeWeek": "34.92%",
-    "uptimeMonth": "34.92%",
-    "uptimeYear": "34.92%",
-    "time": 5461,
-    "timeDay": 5461,
-    "timeWeek": 5461,
-    "timeMonth": 5461,
-    "timeYear": 5461,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 5306,
+    "timeDay": 5306,
+    "timeWeek": 5306,
+    "timeMonth": 5306,
+    "timeYear": 5306,
     "dailyMinutesDown": {
-      "2023-03-15": 0
+      "2023-03-16": 75,
+      "2023-03-15": 1120
     }
   }
 ]
