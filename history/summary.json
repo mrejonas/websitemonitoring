@@ -4,72 +4,80 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2621,
     "timeDay": 1668,
     "timeWeek": 2621,
     "timeMonth": 2621,
     "timeYear": 2621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 2
+    }
   },
   {
     "name": "SIA",
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3512,
     "timeDay": 1579,
     "timeWeek": 3512,
     "timeMonth": 3512,
     "timeYear": 3512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 2
+    }
   },
   {
     "name": "APN",
     "url": "https://www.aphgn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aphgn.org.ico",
     "slug": "apn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3331,
     "timeDay": 1326,
     "timeWeek": 3331,
     "timeMonth": 3331,
     "timeYear": 3331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 1
+    }
   },
   {
     "name": "AfSHG",
     "url": "https://afshgmeetings.org/",
     "icon": "https://icons.duckduckgo.com/ip3/afshgmeetings.org.ico",
     "slug": "af-shg",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1858,
     "timeDay": 1460,
     "timeWeek": 1858,
     "timeMonth": 1858,
     "timeYear": 1858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 1
+    }
   },
   {
     "name": "SCD Warriors",
@@ -88,7 +96,7 @@
     "timeMonth": 3518,
     "timeYear": 3518,
     "dailyMinutesDown": {
-      "2023-03-21": 69,
+      "2023-03-21": 1032,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
