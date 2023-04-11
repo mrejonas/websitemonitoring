@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 2062,
-    "timeDay": 1548,
-    "timeWeek": 1712,
-    "timeMonth": 2062,
-    "timeYear": 2062,
+    "time": 2048,
+    "timeDay": 1611,
+    "timeWeek": 1670,
+    "timeMonth": 2048,
+    "timeYear": 2048,
     "dailyMinutesDown": {
       "2023-04-02": 15,
       "2023-03-21": 27
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 2248,
-    "timeDay": 1552,
-    "timeWeek": 1737,
-    "timeMonth": 2248,
-    "timeYear": 2248,
+    "time": 2224,
+    "timeDay": 1500,
+    "timeWeek": 1614,
+    "timeMonth": 2224,
+    "timeYear": 2224,
     "dailyMinutesDown": {
       "2023-03-21": 27
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 2500,
-    "timeDay": 1319,
-    "timeWeek": 1441,
-    "timeMonth": 2500,
-    "timeYear": 2500,
+    "time": 2453,
+    "timeDay": 1140,
+    "timeWeek": 1413,
+    "timeMonth": 2453,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2023-03-21": 26
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 2153,
-    "timeDay": 1804,
-    "timeWeek": 1507,
-    "timeMonth": 2153,
-    "timeYear": 2153,
+    "time": 2119,
+    "timeDay": 1151,
+    "timeWeek": 1482,
+    "timeMonth": 2119,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2023-03-21": 26
     }
@@ -91,13 +91,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1861,
-    "timeDay": 866,
-    "timeWeek": 850,
-    "timeMonth": 1861,
-    "timeYear": 1861,
+    "time": 1825,
+    "timeDay": 850,
+    "timeWeek": 857,
+    "timeMonth": 1825,
+    "timeYear": 1825,
     "dailyMinutesDown": {
-      "2023-04-10": 66,
+      "2023-04-11": 66,
+      "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
