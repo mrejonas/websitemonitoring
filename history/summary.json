@@ -4,10 +4,10 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "85.49%",
-    "uptimeWeek": "97.93%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
     "time": 2027,
@@ -16,7 +16,7 @@
     "timeMonth": 2027,
     "timeYear": 2027,
     "dailyMinutesDown": {
-      "2023-04-11": 209,
+      "2023-04-11": 211,
       "2023-04-02": 15,
       "2023-03-21": 27
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "85.41%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.37%",
+    "uptimeDay": "84.34%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 2224,
     "timeDay": 1500,
     "timeWeek": 1614,
     "timeMonth": 2224,
     "timeYear": 2224,
     "dailyMinutesDown": {
-      "2023-04-11": 210,
+      "2023-04-11": 225,
       "2023-03-21": 27
     }
   },
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aphgn.org.ico",
     "slug": "apn",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "86.96%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.42%",
+    "uptimeDay": "85.89%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 2426,
     "timeDay": 1386,
     "timeWeek": 1440,
     "timeMonth": 2426,
     "timeYear": 2426,
     "dailyMinutesDown": {
-      "2023-04-11": 188,
+      "2023-04-11": 204,
       "2023-03-21": 26
     }
   },
@@ -68,9 +68,9 @@
     "url": "https://afshgmeetings.org/",
     "icon": "https://icons.duckduckgo.com/ip3/afshgmeetings.org.ico",
     "slug": "af-shg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "87.13%",
+    "uptimeDay": "87.09%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.47%",
@@ -80,7 +80,7 @@
     "timeMonth": 2197,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2023-04-11": 185,
+      "2023-04-11": 186,
       "2023-03-21": 26
     }
   },
@@ -101,7 +101,7 @@
     "timeMonth": 1825,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2023-04-11": 1268,
+      "2023-04-11": 1283,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
