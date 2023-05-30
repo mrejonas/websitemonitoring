@@ -26,9 +26,9 @@
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -38,6 +38,7 @@
     "timeMonth": 1796,
     "timeYear": 2010,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-04-11": 247,
       "2023-03-21": 27
     }
@@ -101,7 +102,7 @@
     "timeMonth": 1032,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2023-05-30": 72,
+      "2023-05-30": 566,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
