@@ -1,7 +1,7 @@
 url: https://afshgmeetings.org/
-status: up
-code: 200
-responseTime: 1800
-lastUpdated: 2023-08-20T23:09:16.464Z
+status: down
+code: 500
+responseTime: 1192
+lastUpdated: 2023-08-21T10:16:12.237Z
 startTime: 2023-03-15T05:19:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
