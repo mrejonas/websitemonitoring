@@ -4,9 +4,9 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 1954,
     "timeYear": 1857,
     "dailyMinutesDown": {
+      "2023-11-01": 0,
       "2023-08-21": 431,
       "2023-08-20": 729,
       "2023-08-10": 21,
@@ -110,7 +111,7 @@
     "timeMonth": 963,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2023-11-01": 63,
+      "2023-11-01": 648,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
