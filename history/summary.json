@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
     "status": "up",
-    "uptime": "87.44%",
+    "uptime": "87.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.96%",
-    "time": 2799,
-    "timeDay": 2422,
-    "timeWeek": 2930,
-    "timeMonth": 2912,
-    "timeYear": 3009,
+    "time": 2798,
+    "timeDay": 2594,
+    "timeWeek": 2933,
+    "timeMonth": 2926,
+    "timeYear": 3010,
     "dailyMinutesDown": {
       "2025-03-18": 21,
       "2025-02-12": 19,
@@ -39,8 +39,7 @@
       "2024-05-26": 304,
       "2024-05-07": 61,
       "2024-05-05": 351,
-      "2024-05-04": 151,
-      "2024-05-02": 50
+      "2024-05-04": 151
     }
   },
   {
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
-    "time": 943,
-    "timeDay": 206,
-    "timeWeek": 225,
+    "time": 941,
+    "timeDay": 230,
+    "timeWeek": 226,
     "timeMonth": 234,
-    "timeYear": 601,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-03-18": 21,
       "2024-12-11": 17,
@@ -81,8 +80,7 @@
       "2024-06-10": 563,
       "2024-05-07": 60,
       "2024-05-05": 351,
-      "2024-05-04": 150,
-      "2024-05-02": 50
+      "2024-05-04": 150
     }
   },
   {
@@ -96,10 +94,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1404,
-    "timeDay": 1219,
-    "timeWeek": 1547,
-    "timeMonth": 1409,
+    "time": 1403,
+    "timeDay": 1262,
+    "timeWeek": 1456,
+    "timeMonth": 1416,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2025-03-18": 20,
@@ -123,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1431,
-    "timeDay": 1055,
-    "timeWeek": 2052,
-    "timeMonth": 1501,
-    "timeYear": 1393,
+    "timeDay": 1278,
+    "timeWeek": 2050,
+    "timeMonth": 1507,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2025-03-18": 20,
       "2025-02-12": 17,
@@ -145,18 +143,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scdwarriorsafrica.org.ico",
     "slug": "scd-warriors",
     "status": "down",
-    "uptime": "3.41%",
+    "uptime": "3.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "7.27%",
     "time": 1002,
-    "timeDay": 611,
-    "timeWeek": 1613,
-    "timeMonth": 1112,
+    "timeDay": 824,
+    "timeWeek": 1608,
+    "timeMonth": 1117,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-05-01": 103,
+      "2025-05-02": 88,
+      "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -494,8 +493,7 @@
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
-      "2024-05-03": 1440,
-      "2024-05-02": 1440
+      "2024-05-03": 1440
     }
   }
 ]
