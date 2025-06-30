@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
     "status": "up",
-    "uptime": "88.32%",
+    "uptime": "88.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.95%",
-    "time": 2835,
-    "timeDay": 2458,
-    "timeWeek": 2847,
-    "timeMonth": 2947,
+    "uptimeYear": "99.23%",
+    "time": 2837,
+    "timeDay": 2955,
+    "timeWeek": 2924,
+    "timeMonth": 2966,
     "timeYear": 3019,
     "dailyMinutesDown": {
       "2025-06-27": 16,
@@ -29,8 +29,7 @@
       "2024-07-19": 613,
       "2024-07-17": 472,
       "2024-07-16": 1253,
-      "2024-07-08": 35,
-      "2024-06-30": 1180
+      "2024-07-08": 35
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.97%",
-    "time": 809,
-    "timeDay": 227,
-    "timeWeek": 232,
-    "timeMonth": 230,
+    "uptimeYear": "99.24%",
+    "time": 807,
+    "timeDay": 267,
+    "timeWeek": 239,
+    "timeMonth": 232,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-03-18": 21,
@@ -61,8 +60,7 @@
       "2024-07-19": 613,
       "2024-07-17": 472,
       "2024-07-16": 1252,
-      "2024-07-08": 35,
-      "2024-06-30": 1180
+      "2024-07-08": 35
     }
   },
   {
@@ -77,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1396,
-    "timeDay": 1317,
-    "timeWeek": 1483,
-    "timeMonth": 1450,
+    "timeDay": 1467,
+    "timeWeek": 1462,
+    "timeMonth": 1457,
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-03-18": 20,
@@ -100,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1411,
-    "timeDay": 1274,
-    "timeWeek": 1448,
-    "timeMonth": 1483,
-    "timeYear": 1408,
+    "timeDay": 1452,
+    "timeWeek": 1470,
+    "timeMonth": 1488,
+    "timeYear": 1409,
     "dailyMinutesDown": {
       "2025-03-18": 20,
       "2025-02-12": 17,
@@ -125,12 +123,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.27%",
     "time": 1006,
-    "timeDay": 865,
-    "timeWeek": 931,
-    "timeMonth": 985,
+    "timeDay": 901,
+    "timeWeek": 969,
+    "timeMonth": 987,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-06-29": 111,
+      "2025-06-30": 107,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -468,8 +467,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   }
 ]
