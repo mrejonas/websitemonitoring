@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
     "status": "up",
-    "uptime": "88.54%",
+    "uptime": "88.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.41%",
-    "time": 2886,
-    "timeDay": 4080,
-    "timeWeek": 3119,
-    "timeMonth": 2962,
-    "timeYear": 3013,
+    "uptimeYear": "99.67%",
+    "time": 2889,
+    "timeDay": 2921,
+    "timeWeek": 3160,
+    "timeMonth": 2969,
+    "timeYear": 3014,
     "dailyMinutesDown": {
       "2025-07-13": 132,
       "2025-06-27": 16,
@@ -27,8 +27,7 @@
       "2024-09-06": 114,
       "2024-08-22": 134,
       "2024-08-21": 153,
-      "2024-07-19": 613,
-      "2024-07-17": 472
+      "2024-07-19": 613
     }
   },
   {
@@ -37,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.43%",
-    "time": 765,
-    "timeDay": 273,
+    "uptimeYear": "99.69%",
+    "time": 762,
+    "timeDay": 209,
     "timeWeek": 362,
     "timeMonth": 268,
-    "timeYear": 298,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2025-07-13": 132,
       "2025-03-18": 21,
@@ -57,8 +56,7 @@
       "2024-09-06": 114,
       "2024-08-22": 134,
       "2024-08-21": 153,
-      "2024-07-19": 613,
-      "2024-07-17": 472
+      "2024-07-19": 613
     }
   },
   {
@@ -73,9 +71,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.92%",
     "time": 1406,
-    "timeDay": 2306,
-    "timeWeek": 1540,
-    "timeMonth": 1524,
+    "timeDay": 1291,
+    "timeWeek": 1526,
+    "timeMonth": 1513,
     "timeYear": 1399,
     "dailyMinutesDown": {
       "2025-07-13": 131,
@@ -97,10 +95,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 1426,
-    "timeDay": 1520,
-    "timeWeek": 1439,
+    "timeDay": 1250,
+    "timeWeek": 1385,
     "timeMonth": 1422,
-    "timeYear": 1410,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-07-13": 131,
       "2025-03-18": 20,
@@ -117,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scdwarriorsafrica.org.ico",
     "slug": "scd-warriors",
     "status": "down",
-    "uptime": "3.11%",
+    "uptime": "3.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "7.27%",
-    "time": 1007,
-    "timeDay": 963,
-    "timeWeek": 893,
-    "timeMonth": 917,
-    "timeYear": 1040,
+    "time": 1008,
+    "timeDay": 1678,
+    "timeWeek": 1019,
+    "timeMonth": 941,
+    "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-07-16": 107,
+      "2025-07-17": 107,
+      "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -466,8 +465,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 424,
-      "2024-07-18": 323,
-      "2024-07-17": 1386
+      "2024-07-18": 323
     }
   }
 ]
