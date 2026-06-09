@@ -4,13 +4,13 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
-    "uptime": "91.23%",
-    "uptimeDay": "85.78%",
-    "uptimeWeek": "97.97%",
+    "status": "down",
+    "uptime": "91.24%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.39%",
-    "time": 3024,
+    "time": 3025,
     "timeDay": 2399,
     "timeWeek": 2493,
     "timeMonth": 3457,
@@ -38,7 +38,7 @@
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 747,
-      "2026-06-09": 205
+      "2026-06-09": 206
     }
   },
   {
@@ -46,10 +46,10 @@
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.40%",
     "time": 339,
@@ -79,7 +79,7 @@
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 747,
-      "2026-06-09": 205
+      "2026-06-09": 206
     }
   },
   {
@@ -87,9 +87,9 @@
     "url": "https://www.aphgn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aphgn.org.ico",
     "slug": "apn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "85.81%",
+    "uptimeDay": "85.76%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.48%",
@@ -120,7 +120,7 @@
       "2026-04-17": 1440,
       "2026-04-16": 36,
       "2026-05-17": 243,
-      "2026-06-09": 204
+      "2026-06-09": 205
     }
   },
   {
@@ -128,10 +128,10 @@
     "url": "https://afshgmeetings.org/",
     "icon": "https://icons.duckduckgo.com/ip3/afshgmeetings.org.ico",
     "slug": "af-shg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "85.83%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "85.79%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.14%",
     "time": 1477,
@@ -182,7 +182,7 @@
     "timeMonth": 941,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2026-06-09": 424,
+      "2026-06-09": 639,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
