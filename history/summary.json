@@ -4,17 +4,17 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
-    "uptime": "91.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.24%",
+    "status": "down",
+    "uptime": "91.27%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "96.23%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "98.36%",
-    "time": 3022,
-    "timeDay": 2636,
-    "timeWeek": 2513,
-    "timeMonth": 3416,
-    "timeYear": 3082,
+    "time": 3017,
+    "timeDay": 1835,
+    "timeWeek": 2365,
+    "timeMonth": 3346,
+    "timeYear": 3077,
     "dailyMinutesDown": {
       "2025-06-27": 16,
       "2025-07-13": 132,
@@ -38,7 +38,8 @@
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 747,
-      "2026-06-09": 379
+      "2026-06-09": 379,
+      "2026-06-14": 1
     }
   },
   {
@@ -46,17 +47,17 @@
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.24%",
-    "uptimeMonth": "99.14%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.36%",
-    "time": 350,
-    "timeDay": 1383,
-    "timeWeek": 1303,
-    "timeMonth": 1578,
-    "timeYear": 406,
+    "time": 353,
+    "timeDay": 1642,
+    "timeWeek": 1363,
+    "timeMonth": 1588,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-07-13": 132,
       "2025-08-24": 46,
@@ -79,7 +80,8 @@
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 747,
-      "2026-06-09": 379
+      "2026-06-09": 379,
+      "2026-06-14": 0
     }
   },
   {
@@ -182,7 +184,7 @@
     "timeMonth": 922,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2026-06-14": 247,
+      "2026-06-14": 1240,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
