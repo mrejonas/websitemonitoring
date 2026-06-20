@@ -4,13 +4,13 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "91.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.44%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.43%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.31%",
-    "time": 3015,
+    "time": 3016,
     "timeDay": 1925,
     "timeWeek": 2372,
     "timeMonth": 3022,
@@ -40,7 +40,8 @@
       "2026-04-16": 747,
       "2026-06-09": 379,
       "2026-06-14": 78,
-      "2026-06-17": 180
+      "2026-06-17": 180,
+      "2026-06-20": 1
     }
   },
   {
@@ -48,13 +49,13 @@
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "98.31%",
-    "time": 372,
+    "time": 373,
     "timeDay": 1191,
     "timeWeek": 1612,
     "timeMonth": 1497,
@@ -83,7 +84,8 @@
       "2026-04-16": 747,
       "2026-06-09": 379,
       "2026-06-14": 78,
-      "2026-06-17": 180
+      "2026-06-17": 180,
+      "2026-06-20": 1
     }
   },
   {
@@ -91,13 +93,13 @@
     "url": "https://www.aphgn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aphgn.org.ico",
     "slug": "apn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.41%",
-    "time": 1506,
+    "time": 1505,
     "timeDay": 1361,
     "timeWeek": 1380,
     "timeMonth": 1584,
@@ -125,7 +127,8 @@
       "2026-04-16": 36,
       "2026-05-17": 243,
       "2026-06-09": 378,
-      "2026-06-17": 180
+      "2026-06-17": 180,
+      "2026-06-20": 1
     }
   },
   {
@@ -133,10 +136,10 @@
     "url": "https://afshgmeetings.org/",
     "icon": "https://icons.duckduckgo.com/ip3/afshgmeetings.org.ico",
     "slug": "af-shg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.08%",
     "time": 1474,
@@ -168,7 +171,8 @@
       "2026-04-17": 1440,
       "2026-04-16": 36,
       "2026-06-09": 378,
-      "2026-06-17": 180
+      "2026-06-17": 180,
+      "2026-06-20": 0
     }
   },
   {
@@ -188,7 +192,7 @@
     "timeMonth": 865,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2026-06-20": 222,
+      "2026-06-20": 707,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
