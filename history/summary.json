@@ -4,13 +4,13 @@
     "url": "https://sadacc.org",
     "icon": "https://icons.duckduckgo.com/ip3/sadacc.org.ico",
     "slug": "sa-da-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "90.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "47.59%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "54.76%",
     "uptimeMonth": "68.43%",
     "uptimeYear": "95.69%",
-    "time": 2993,
+    "time": 2991,
     "timeDay": 2754,
     "timeWeek": 2416,
     "timeMonth": 2466,
@@ -51,7 +51,8 @@
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
-      "2026-07-14": 1440
+      "2026-07-14": 1440,
+      "2026-07-26": 1
     }
   },
   {
@@ -59,10 +60,10 @@
     "url": "https://www.sickleinafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sickleinafrica.org.ico",
     "slug": "sia",
-    "status": "up",
+    "status": "down",
     "uptime": "97.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "47.59%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "54.77%",
     "uptimeMonth": "68.43%",
     "uptimeYear": "95.69%",
     "time": 453,
@@ -106,7 +107,8 @@
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
-      "2026-07-14": 1440
+      "2026-07-14": 1440,
+      "2026-07-26": 1
     }
   },
   {
@@ -114,10 +116,10 @@
     "url": "https://www.aphgn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aphgn.org.ico",
     "slug": "apn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.40%",
     "time": 1501,
@@ -149,7 +151,8 @@
       "2026-06-09": 378,
       "2026-06-17": 180,
       "2026-06-20": 89,
-      "2026-06-28": 70
+      "2026-06-28": 70,
+      "2026-07-26": 1
     }
   },
   {
@@ -157,9 +160,9 @@
     "url": "https://afshgmeetings.org/",
     "icon": "https://icons.duckduckgo.com/ip3/afshgmeetings.org.ico",
     "slug": "af-shg",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.07%",
@@ -193,7 +196,8 @@
       "2026-06-09": 378,
       "2026-06-17": 180,
       "2026-06-20": 89,
-      "2026-06-28": 70
+      "2026-06-28": 70,
+      "2026-07-26": 0
     }
   },
   {
@@ -213,7 +217,7 @@
     "timeMonth": 654,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2026-07-26": 167,
+      "2026-07-26": 892,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
