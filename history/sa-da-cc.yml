@@ -1,7 +1,7 @@
 url: https://sadacc.org
-status: up
-code: 200
-responseTime: 3968
-lastUpdated: 2026-10-22T01:09:02.145Z
+status: down
+code: 500
+responseTime: 1706
+lastUpdated: 2026-10-22T15:09:48.965Z
 startTime: 2023-03-14T22:36:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
