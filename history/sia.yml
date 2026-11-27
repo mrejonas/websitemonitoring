@@ -1,7 +1,7 @@
 url: https://www.sickleinafrica.org
-status: up
-code: 200
-responseTime: 1057
-lastUpdated: 2026-11-26T04:39:39.015Z
+status: down
+code: 500
+responseTime: 1117
+lastUpdated: 2026-11-27T04:44:05.943Z
 startTime: 2023-03-14T22:36:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
